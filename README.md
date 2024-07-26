@@ -6,4 +6,5 @@ The health journal app offers two main features: The goal is to allow users to m
 Link to access full documentation : https://drive.google.com/drive/folders/1jdTuHb7cx49cOaXjKr94eAk_Ft0y1hUp?usp=share_link
 
 For chekcing out code: 
-To review the code, please visit the master branch located under the main branch.<img width="347" alt="Screenshot 2024-07-26 at 7 51 31 AM" src="https://github.com/user-attachments/assets/92f29182-cec7-44e7-b386-277b3a2aba4d">
+To review the code, please visit the master branch located under the main branch.<img 
+<img width="320" alt="Screenshot 2024-07-26 at 7 52 10 AM" src="https://github.com/user-attachments/assets/c8237fb4-7dd8-459e-ab32-08ead5446fc7">
